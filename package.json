@@ -1,6 +1,6 @@
 {
   "name": "lazy-masonry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple Lazy Masonry for JavaScript",
   "main": "index.js",
   "scripts": {
